@@ -43,7 +43,7 @@ Wikipedia traffic from 2008-2019, using two different API endpoints, the Legacy 
 | pageview_mobile_views  | Sum of mobile views based on pageviews API  |
 
 ## Data Visualization
-![alt text](https://github.com/davidweinfls/uw/blob/master/DATA512/Week1/En-wikipedia_traffic_200801-201909_ywei1.png)
+![alt text](https://github.com/davidweinfls/data-512-a1/blob/master/En-wikipedia_traffic_200801-201909_ywei1.png)
 
 ## License of source data
 - [Wikimedia](https://foundation.wikimedia.org/wiki/Terms_of_Use/en)
